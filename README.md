@@ -1,8 +1,6 @@
 # Activacion-OFFICE-WINDOWS-Herramientas
 Este script de Windows ofrece una interfaz de línea de comandos para activar software, verificar la activación, convertir archivos, verificar puertos y realizar tareas de administración en Windows. Ideal para usuarios avanzados y administradores de sistemas.
 
-¡Claro! Aquí tienes una explicación más detallada de cada opción en el menú:
-
 1. **Activación de Microsoft Office - Método 1 (Activación de Licencia en Volumen) - Microsoft:**
    - Este método activa Microsoft Office utilizando una licencia en volumen.
    - Busca archivos de licencia específicos en el sistema y los utiliza para activar Office.
@@ -42,3 +40,4 @@ Este script de Windows ofrece una interfaz de línea de comandos para activar so
     - Cierra el menú y finaliza la ejecución del script.
 
 Espero que esta explicación detallada te ayude a comprender mejor cada opción en el menú. Si tienes alguna pregunta adicional o necesitas más información sobre alguna opción en particular, no dudes en preguntar.
+
