@@ -1,5 +1,3 @@
-Por supuesto, aquí tienes una descripción más detallada de cada opción:
-
 1. **Act. Método 1 (Licencia en Volumen) - Microsoft 365**: Este script activa Microsoft Office utilizando una licencia en volumen a través de un método específico. Descarga una licencia en formato .xrm-ms desde la carpeta de licencias del sistema y la instala. Luego, configura el servidor de activación y realiza la activación del producto.
 
 2. **Act. Método 2 (Licencia en Volumen) - Externo**: Activa Microsoft Office utilizando una licencia en volumen obtenida desde un servidor externo. Descarga la licencia desde una URL remota y la instala en el sistema, lo que facilita la activación del producto sin depender de los servidores de Microsoft.
